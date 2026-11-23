@@ -1,0 +1,8 @@
+account,role,status,grants
+demo-01,scheduler,active,calendar.read calendar.write
+demo-02,scheduler,active,calendar.read chart.write
+demo-03,clinician,active,chart.read chart.write
+demo-04,auditor,departed,audit.read
+demo-05,contractor,active,calendar.read
+demo-06,clinician,departed,
+demo-07,auditor,active,audit.read

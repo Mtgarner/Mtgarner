@@ -1,0 +1,23 @@
+[
+  [
+    "demo-02",
+    "outside approved role",
+    [
+      "chart.write"
+    ]
+  ],
+  [
+    "demo-04",
+    "departed account retains access",
+    [
+      "audit.read"
+    ]
+  ],
+  [
+    "demo-05",
+    "role needs owner review",
+    [
+      "calendar.read"
+    ]
+  ]
+]
